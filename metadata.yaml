@@ -1,0 +1,33 @@
+_repo: Voyages-of-the-Dutch-brig-of-war-Dourga_73305
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Earl, George Windsor
+    gutenberg_agent_id: '57031'
+    url: http://www.gutenberg.org/2009/agents/57031
+creator:
+  author:
+    agent_name: Kolff, Dirk Hendrik
+    gutenberg_agent_id: '57030'
+    url: http://www.gutenberg.org/2009/agents/57030
+description: ''
+gutenberg_issued: '2024-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73305'
+language: en
+pgterms:marc904: https://archive.org/details/voyagesofdutchbr00kolf
+pgterms:marc905: 20210625112106kolff
+pgterms:marc906: '1840'
+pgterms:marc907: gb
+production_note: Peter Becker, Graeme Mackreth and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bJames Madden & Co., $c1840.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Voyages of the Dutch brig of war Dourga
+url: http://www.gutenberg.org/ebooks/73305
