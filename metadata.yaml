@@ -5,12 +5,17 @@ contributor:
     agent_name: Earl, George Windsor
     gutenberg_agent_id: '57031'
     url: http://www.gutenberg.org/2009/agents/57031
+covers:
+- cover_type: archival
+  image_path: 73305-h/images/cover.jpg
 creator:
   author:
     agent_name: Kolff, Dirk Hendrik
     gutenberg_agent_id: '57030'
     url: http://www.gutenberg.org/2009/agents/57030
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73305#Voyages-of-the-Dutch-brig-of-war-Dourga
 gutenberg_issued: '2024-03-31'
 gutenberg_type: Text
 identifiers:
